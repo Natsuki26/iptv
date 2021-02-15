@@ -3,19 +3,19 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="TOP NEWS" tvg-logo="https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.png",TOP NEWS
 https://live.topnews.co.th/hls/topnews.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-id="tv5.iptv36.my.to" group-title="TH DTV 2021-02-01T15:46" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=8",TV5 HD [NO HW+]
+#EXTINF:-1 tvg-chno="2" tvg-id="tv5.iptv36.my.to" group-title="TH DTV 2021-02-01T15:46" tvg-logo="https://iptv36.my.to/logo/tv5.png?rev=8",TV5 HD [NO HW+]
 https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="nbt.iptv36.my.to" group-title="TH DTV 2021-02-01T15:46" tvg-logo="https://iptv36.my.to/logo/nbt.png?rev=8",NBT HD [NO HW+]
+#EXTINF:-1 tvg-chno="3" tvg-id="nbt.iptv36.my.to" group-title="TH DTV 2021-02-01T15:46" tvg-logo="https://iptv36.my.to/logo/nbt.png?rev=8",NBT HD [NO HW+]
 https://www.livedoomovie.com/02_NBTSD_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-id="thaipbs.iptv36.my.to" group-title="TH DTV 2021-02-01T15:46" tvg-logo="https://iptv36.my.to/logo/thaipbs.png?rev=8",Thai PBS HD
+#EXTINF:-1 tvg-chno="4" tvg-id="thaipbs.iptv36.my.to" group-title="TH DTV 2021-02-01T15:46" tvg-logo="https://iptv36.my.to/logo/thaipbs.png?rev=8",Thai PBS HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="altv.iptv36.my.to" group-title="TH DTV 2021-02-01T15:46" tvg-logo="https://iptv36.my.to/logo/altv.png?rev=8",ALTV HD
+#EXTINF:-1 tvg-chno="5" tvg-id="altv.iptv36.my.to" group-title="TH DTV 2021-02-01T15:46" tvg-logo="https://iptv36.my.to/logo/altv.png?rev=8",ALTV HD
 https://iptv36.my.to/altv.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-id="workpoint.iptv36.my.to" group-title="TH DTV 2021-02-01T15:46" tvg-logo="https://iptv36.my.to/logo/workpoint.png?rev=8",Workpoint TV [NO HW+] Backup
+#EXTINF:-1 tvg-chno="6" tvg-id="workpoint.iptv36.my.to" group-title="TH DTV 2021-02-01T15:46" tvg-logo="https://iptv36.my.to/logo/workpoint.png?rev=8",Workpoint TV [NO HW+] Backup
 https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="ch7.iptv36.my.to" group-title="TH DTV 2021-02-01T15:46" tvg-logo="https://iptv36.my.to/logo/ch7.png?rev=8",CH7 Backup

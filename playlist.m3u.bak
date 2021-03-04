@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U : Thai IPTV Playlist from https://iptv36.my.to/ - Last Update 2021-02-01T15:46
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TOP NEWS" tvg-logo="https://www.topnews.co.th/wp-content/uploads/2021/01/cropped-topnews-site-logo-3.png",TOP NEWS
 https://live.topnews.co.th/hls/topnews.m3u8
